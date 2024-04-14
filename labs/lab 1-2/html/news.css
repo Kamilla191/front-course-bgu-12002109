@@ -1,0 +1,33 @@
+body { background-image: url("../img/GVup.gif");
+padding:0 150px 0 150px ;
+font-size: height: 70px;
+font-family: Arial;}
+
+#text{padding:50px 430px 0 300px}
+#t{padding:0 200px 0 420px}
+
+header { background-color: hsl(180,60%,50%); color: #fff; padding: 20px; }
+
+h1 { font-size: 36px; margin: 0; }
+
+nav ul { display: flex; list-style: none; }
+
+nav li { margin-right: 20px;}
+
+nav a { color: #fff; text-decoration: none; }
+
+nav a:hover { text-decoration: underline;}
+
+main {height: 1350px; margin: 0 auto;}
+
+section {height: 1250px; padding: 50px; margin-bottom: 20px; background-color: #fff; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); }
+
+section h2 { font-size: 24px; margin-bottom: 20px; }
+
+section p { font-size: 18px; color: #333; line-height: 1.5; }
+
+ul { font-size: 18px; color: #333; line-height: 1.5; }
+
+footer { background-color: hsl(180,60%,50%); color: #fff; text-align: center; padding: 20px; }
+
+

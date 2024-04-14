@@ -1,0 +1,42 @@
+/* Стили для страницы отзывов */ 
+body {  background-image: url("../img/GVup.gif");
+padding-left: 150px;
+padding-right: 150px;
+font-family: Arial, sans-serif; 
+ }
+
+ul { font-size: 18px; color: #333; line-height: 1.5; }
+
+header { background-color: hsl(180,60%,50%); color: #fff; padding: 20px; }
+
+nav ul { display: flex; list-style: none; } 
+
+nav li { margin-right: 20px; } 
+
+nav a { color: #fff; text-decoration: none; }
+
+main { padding: 50px; background-color:white;}
+
+form label { display: block; font-weight: bold; margin-bottom: 10px; }
+
+form input, form select, form textarea { margin-bottom: 10px; width: 70%; padding: 5px; border-radius: 5px; border: none; background-color: #f8f8f8; }
+
+form select option[value=""][disabled]:selected { display: none; }
+
+.button { text-align: center; margin-bottom: 20px; }
+
+.button input[type="button"]{ background-color: hsl(180,60%,50%); color: #fff; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer; }
+
+.button a {color: white; padding: 10px 20px; border-radius: 5px; }
+
+.review { margin-bottom: 30px; padding: 10px; border: 1px solid #ccc; background-color: #f8f8f8; }
+
+.review p { margin-bottom: 5px; }
+
+.review a { font-size: 1.2rem; }
+
+footer { background-color: hsl(180,60%,50%); color: #fff; text-align: center; padding: 20px; } 
+
+
+
+
